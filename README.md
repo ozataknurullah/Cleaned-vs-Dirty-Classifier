@@ -45,8 +45,9 @@ Bu proje, Kaggle'dan alınan **"Cleaned vs Dirty"** veri seti ile temiz (`cleane
 Aşağıdaki komutla bağımlılıkları yükleyin:
 ```bash
 pip install -r requirements.txt
+```
 
-Kodları Çalıştırma
+# Kodları Çalıştırma
 Veri ön işleme ve model eğitimi için src klasöründeki Jupyter Notebook'ları çalıştırın.
 Sonuçları results/ klasöründen analiz edin.
 
@@ -117,6 +118,7 @@ This project aims to classify images as **cleaned** and **dirty** using the **"C
 Install the required dependencies using the following command:
 ```bash
 pip install -r requirements.txt
+```
 
 Running the Code
 Execute the Jupyter Notebooks in the src folder for data preprocessing and model training.
